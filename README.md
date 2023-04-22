@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vid</h1>
-<h3 align="center">An aspiring frontend developer from Slovenia</h3>
-
-- 🌱 I’m currently learning **Javascript**
+<h3 align="center">An aspiring frontend developer</h3>
 
 - 📫 Feel free to reach out to me on discord **Vipness#3553**
 
